@@ -3,7 +3,7 @@
 
 **Full Stack Developer · Data Science & ML/AI Enthusiast · B.Tech CSE '27**
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-BhavneeshBanga-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/BhavneeshBanga)
+
 [![GitHub](https://img.shields.io/badge/GitHub-BhavneeshBanga-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BhavneeshBanga)
 
 </div>
@@ -93,18 +93,6 @@ An intelligent decision-support system that helps people cut through noise, anal
 </div>
 
 
-
----
-
-## 📈 LeetCode Progress
-
-<div align="center">
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/BhavneeshBanga?theme=dark&font=Nunito&ext=heatmap)](https://leetcode.com/BhavneeshBanga)
-
-</div>
-
----
 
 <div align="center">
 
