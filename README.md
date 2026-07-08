@@ -101,3 +101,10 @@ An intelligent decision-support system that helps people cut through noise, anal
 ![Profile Views](https://komarev.com/ghpvc/?username=BhavneeshBanga&color=0e75b6&style=flat)
 
 </div>
+
+---
+<!-- game-of-life-contribution-grid -->
+<div align="center">
+  <img src="[https://profile-readme-generator.com/assets/snake.svg](https://raw.githubusercontent.com/BhavneeshBanga/BhaviBanga/output/life-grid-light.svg)" alt="Snake animation" />
+</div>
+
