@@ -106,7 +106,7 @@ An intelligent decision-support system that helps people cut through noise, anal
 ---
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/BhavneeshBanga/BhaviBanga/output/life-grid-light.svg"
+    src="https://raw.githubusercontent.com/BhavneeshBanga/BhaviBanga/output/life-grid-dark.svg"
     alt="Game of Life Contribution Grid"
   />
 </div>
