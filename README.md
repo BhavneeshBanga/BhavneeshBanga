@@ -105,6 +105,6 @@ An intelligent decision-support system that helps people cut through noise, anal
 ---
 <!-- game-of-life-contribution-grid -->
 <div align="center">
-  <img src="[https://profile-readme-generator.com/assets/snake.svg](https://raw.githubusercontent.com/BhavneeshBanga/BhaviBanga/output/life-grid-light.svg)" alt="Snake animation" />
+  <img src="[https://profile-readme-generator.com/assets/snake.svg](https://raw.githubusercontent.com/BhavneeshBanga/BhaviBanga/output/life-grid-light.svg)" />
 </div>
 
