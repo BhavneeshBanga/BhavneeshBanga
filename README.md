@@ -15,10 +15,10 @@
 Hey! I'm **Bhavneesh**, a 2nd year Computer Science student passionate about building things that actually matter. I work at the intersection of **Full Stack Development** and **AI/ML** — turning ideas into working products.
 
 - 🎓 B.Tech CSE, 2nd Year
-- 🚀 Currently building **ClarityAI** — an AI-powered decision clarity tool for humans
+- 🚀 Currently building **BhavAI** — an AI-powered sandbox tool to help you with development
 - 🧠 Exploring Large Language Models, ML pipelines & scalable web systems
 - 💻 Solving problems daily on LeetCode
-- 📍 Jalandhar, Punjab, India
+- 📍 Sirhind, Punjab, India
 
 ---
 
