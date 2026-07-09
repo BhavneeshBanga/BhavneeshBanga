@@ -1,7 +1,7 @@
 
 # Bhavneesh Banga
 
-**Full Stack Developer · Data Science & ML/AI Enthusiast · B.Tech CSE '27**
+**Full Stack Developer · Data Science & ML/AI Enthusiast · B.Tech CSE '28**
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-BhavneeshBanga-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BhavneeshBanga)
